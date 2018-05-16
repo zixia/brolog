@@ -56,7 +56,7 @@
     "semver": "^5.5.0",
     "sinon": "^5.0.3",
     "sinon-test": "git://github.com/zixia/sinon-test.git#patch-1",
-    "source-map": "^0.7.2",
+    "source-map": "^0.7.3",
     "tap": "^11.1.4",
     "ts-node": "^6.0.2",
     "tslint": "^5.7.0",
