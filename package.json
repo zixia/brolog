@@ -57,7 +57,7 @@
     "sinon-test": "git://github.com/zixia/sinon-test.git#patch-1",
     "source-map": "^0.7.2",
     "tap": "^12.0.0",
-    "ts-node": "^7.0.0",
+    "ts-node": "7.0.0",
     "tslint": "^5.7.0",
     "typescript": "^2.5.2"
   },
