@@ -52,7 +52,7 @@
     "puppeteer": "^1.3.0",
     "rollup-plugin-json": "^3.0.0",
     "rollup": "^0.64.0",
-    "semver": "^5.5.0",
+    "semver": "^5.5.1",
     "sinon": "^6.0.0",
     "sinon-test": "git://github.com/zixia/sinon-test.git#patch-1",
     "source-map": "^0.7.2",
