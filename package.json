@@ -51,7 +51,7 @@
     "magic-string": "^0.25.0",
     "pkg-jq": "^0.2.4",
     "protractor": "^7.0.0",
-    "puppeteer": "^5.1.0",
+    "puppeteer": "^9.0.0",
     "rollup": "^2.13.1",
     "rollup-plugin-json": "^4.0.0",
     "source-map": "^0.7.2",
