@@ -55,7 +55,7 @@
     "rollup": "^2.13.1",
     "rollup-plugin-json": "^4.0.0",
     "source-map": "^0.7.2",
-    "tap": "^14.10.7",
+    "tap": "^15.0.9",
     "tslint": "^6.1.2",
     "tstest": "^0.4.10"
   },
